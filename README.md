@@ -11,7 +11,7 @@ Gosto de entender como as coisas funcionam e criar experiências que pareçam vi
 - Desenvolvimento com **Python**
 - Estruturas de baixo nível em **C**
 - Web minimalista com **HTML** e **CSS**
-- Automação e experimentos criativos
+- Criação de jogos
 
 ---
 
