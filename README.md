@@ -1,11 +1,12 @@
-# Letícia Cordeiro
+## *Hello World, Ati here!*
 
-> "O código é meu idioma.  
->  A lógica, meu refúgio."
+> *"O código é meu idioma.
+>  A lógica, meu refúgio."*
 
-Desenvolvedora em formação.  
+Desenvolvedora em formação // UTFPR
+
 Exploro o lado técnico e estético da tecnologia — entre o ruído dos bits e o silêncio das ideias.  
-Gosto de entender como as coisas funcionam e criar experiências que pareçam vivas, mesmo no escuro.
+Gosto de entender como as coisas funcionam e criar experiências que pareçam vivas, independente de como.
 
 ## Áreas de interesse
 - Desenvolvimento com **Python**
@@ -20,7 +21,6 @@ Gosto de entender como as coisas funcionam e criar experiências que pareçam vi
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00599C)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 
 ---
 
@@ -39,20 +39,4 @@ Aprendo o tempo todo, mesmo que o sistema esteja em modo instável.
 
 ---
 
-> "Entre o caos e a lógica, escolhi escrever."
-
-
-<!--
-**lehcs/lehcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *"Entre o caos e a lógica, escolhi escrever."*
